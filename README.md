@@ -13,7 +13,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD1](td01_enonce.ipynb) | Introduction à Git | ✅
 | [TD2](td02_enonce.ipynb) | Introduction à GitHub | ✅
 | [TD3](td03_enonce.ipynb) | Les bases de Python | ✅
-| [TD4](td04_enonce.ipynb) | Les fonctions et le Numpy | ✅
+| [TD4](td04_enonce.ipynb) | Les fonctions, modules et NumPy | ✅
 | [TD5](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | ✅
 | [TD6](td06_enonce.ipynb) | Logique, flux de contrôle et boucles |✅
 | TD 7 | x| :x:
